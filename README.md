@@ -234,3 +234,6 @@ This repository serves as the official landing page for Matroska Muxer. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Matroska Muxer today!**
+
+---
+**Last updated:** 2026-09-10 08:01:12 UTC
