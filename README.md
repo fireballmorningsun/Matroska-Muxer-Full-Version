@@ -236,4 +236,4 @@ This repository serves as the official landing page for Matroska Muxer. The soft
 **Get the most recent version of Matroska Muxer today!**
 
 ---
-**Last updated:** 2026-11-07 09:51:41 UTC
+**Last updated:** 2026-11-07 16:14:53 UTC
